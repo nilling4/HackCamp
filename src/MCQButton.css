@@ -1,0 +1,20 @@
+* {
+    margin: 0; 
+    border: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .mcqButton {
+    font-size: 20px;
+    border-radius: 15px 30px 30px;
+    background-color: black;
+    color: white;
+    width: 50px;
+    height: 20px;
+    margin-bottom: 1em;
+  }
+
+  .beginButton:hover {
+    background: greenyellow;
+    color: red;
+  }

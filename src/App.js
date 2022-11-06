@@ -1,23 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useState } from "react"
+import HomePage from "./HomePage.js"
+import MultipleChoicePage from "./MultipleChoicePage"
 
-function App() {
-  const [hello, setHello] = useState()
-
-  function getPhoto() {
-    fetch("https://google.com", {dfgdf})
-    .then((response) => {
-      console.log(response)
-    })
-
-  }
+function App(){
 
   return (
     <div className="App">
-      
+      <MultipleChoicePage/>
     </div>
   );
 }
 
 export default App;
+ 

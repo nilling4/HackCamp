@@ -1,0 +1,45 @@
+* {
+    margin: 0; 
+    border: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: aqua;
+  }
+
+  .homePage {
+    text-align: center;
+  }
+
+  .title {
+    line-height: 400px;
+    vertical-align: middle;
+    font-size: 30px;
+    margin-bottom: 50px; 
+  }
+
+  .beginButton {
+    vertical-align: middle;
+    font-size: 20px;
+    border-radius: 15px 30px 30px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 60px;
+  }
+
+  .beginButton:hover {
+    background: greenyellow;
+    color: red;
+  }
+
+  .reveal {
+    position: relative;
+    transform: translateX(0px);
+    opacity: 100%;
+    transition: all 2s ease;
+   }
+
+  .reveal.active {
+    transform: translateX(0px);
+    opacity: 1;
+  }
