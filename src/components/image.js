@@ -12,7 +12,7 @@ function Image() {
 
     return (
         <div>
-            <Link className="btn" to="/example">
+            <Link className="btn" to="/HomePage">
                 Link
             </Link>
         </div>

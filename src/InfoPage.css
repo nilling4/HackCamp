@@ -1,0 +1,61 @@
+* {
+    margin: 0; 
+    border: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+.title {
+    font-size: 30px;
+    text-align: center;
+} 
+
+.infoWithImages {
+    display: flex;
+    flex-direction: row;
+}
+
+.imageSlider {
+    flex: 1;
+    background-color: blue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+    object-fit: contain;
+    width: calc(350px * 4);
+    animation: slide 20s ease-in-out infinite;
+}
+
+@keyframes slide {
+      20% {
+        margin-left: 0px;
+      }
+      40% {
+        margin-left: calc(-350px * 1);
+      }
+      60% {
+        margin-left: calc(-350px * 2);
+      }
+      80% {
+        margin-left: calc(-350px * 3);
+      }
+}
+
+.infoImage {
+    float: left;
+    height: 400px;
+    width: 350px;
+}
+
+.infoPanel {
+    flex: 1;
+    background-color: chocolate;
+}
+
+.yesOrNoButtonContainer {
+    display: flex;
+    width: 100%;
+}
+
