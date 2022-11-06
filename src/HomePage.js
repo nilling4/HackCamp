@@ -8,7 +8,7 @@ function HomePage() {
         <div className="homePage">
             <img className="homePageBG"/>
             <h4 className="title reveal">AROUND THE WORLD</h4>
-            <button className="beginButton"><a href="MultipleChoicePage.js">BEGIN</a></button>
+            <button className="beginButton">BEGIN</button>
         </div>
     )
 }
