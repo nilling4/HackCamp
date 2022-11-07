@@ -59,3 +59,19 @@
     width: 100%;
 }
 
+.homeButton {
+  vertical-align: middle;
+  font-size: 20px;
+  border-radius: 15px 30px 30px;
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 60px;
+  margin-top: 80px;
+}
+
+.homeButton:hover {
+  background: rgb(75, 100, 223);
+  color: rgb(255, 255, 255);
+}
+
