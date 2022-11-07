@@ -38,8 +38,7 @@ function MultipleChoicePage() {
             <h4 className="title">WHERE IS THIS PLACE?</h4>
             <div className="choice">
 
-                <img className="imageHolder" src={picture} ></img>
-    
+                <div className="imageHolder"><img className="imageHolder1" src={picture}></img></div>
                 
                 <div className="options">
 

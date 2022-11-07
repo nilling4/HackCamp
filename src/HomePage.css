@@ -3,18 +3,27 @@
     border: 0;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
-    background-color: aqua;
+    background-color: #2f3a4f;
   }
 
   .homePage {
     text-align: center;
   }
 
+  .homePageBG {
+    display: block;
+    height: 350px;
+    width: 350px;
+    margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+  }
+
   .title {
-    line-height: 300px;
+    line-height: 250px;
     vertical-align: middle;
     font-size: 30px;
-    margin-bottom: 10px; 
   }
 
   .beginButton {
@@ -25,7 +34,7 @@
     color: rgb(0, 0, 0);
     width: 100px;
     height: 60px;
-    margin-top: 80px;
+    margin-top: 5em;
   }
 
   .beginButton:hover {
