@@ -13,9 +13,10 @@
     height: 40px;
     margin-top: 3rem;
     margin-bottom: 3em;
+    transition: 0.5s;
   }
 
   .beginButton:hover {
-    background: greenyellow;
-    color: red;
+    background: rgb(180, 103, 15);
+    color: rgb(255, 255, 255);
   }

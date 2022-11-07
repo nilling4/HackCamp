@@ -21,12 +21,53 @@
 .imageHolder {
     flex: 1;
     margin-left: 6em;
+    width: 600px;
+    height: 500px;
 }
 
 .options {
     flex: 1;
-    margin-left: 20em;
+    margin-left: 0em;
     margin-top: 2em;
+}
+
+/* .mqButton {
+    vertical-align: middle;
+    font-size: 20px;
+    border-radius: 15px 30px 30px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 60px;
+    margin-top: 80px;
+  }
+  
+  .mqButton:hover {
+    background: rgb(75, 100, 223);
+    color: rgb(255, 255, 255);
+  } */
+
+  .mqButton {
+    background: white;
+    color: black;
+    display: block;
+    height: 60px;
+    width: 200px;
+    border-radius: 400px;
+    margin: 20px auto;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    line-height: 60px;
+    font-size: 20px;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.mqButton:hover {
+background: rgb(75, 100, 223);
+color: white;
+text-decoration: none;
 }
 
 

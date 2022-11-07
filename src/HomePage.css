@@ -11,25 +11,26 @@
   }
 
   .title {
-    line-height: 400px;
+    line-height: 300px;
     vertical-align: middle;
     font-size: 30px;
-    margin-bottom: 50px; 
+    margin-bottom: 10px; 
   }
 
   .beginButton {
     vertical-align: middle;
     font-size: 20px;
     border-radius: 15px 30px 30px;
-    background-color: black;
-    color: white;
+    background-color: rgb(254, 254, 254);
+    color: rgb(0, 0, 0);
     width: 100px;
     height: 60px;
+    margin-top: 80px;
   }
 
   .beginButton:hover {
-    background: greenyellow;
-    color: red;
+    background: rgb(75, 100, 223);
+    color: rgb(255, 255, 255);
   }
 
   .reveal {
