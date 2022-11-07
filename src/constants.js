@@ -1,5 +1,5 @@
-export const answers = ["The Azores, Portugal", "Mount Kilimanjaro, Tanzania", "Wulingyuan Scenic Area, China", "Arashiyama Bamboo Grove, Japan", "Na Pali Coast, Hawaii", "Reynisfjara, Iceland",
-"Capri, Italy", "Cappadocia, Turkey", "Machu Picchu, Peru", "Sequoia National Park, California"]
+export const answers = ["Azores, Portugal", "Wulingyuan Scenic Area, China", "Tanzania", "Na Pali Coast, Hawaii", "Reynisfjara, Iceland", "Capri, Italy",
+"Cappadocia, Turkey", "Galapagos Islands, Ecuador", "Machu Picchu, Peru", "Sequoia National Park, California"]
 
 export const places = ["https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sAW30NDygefENpTRAMJsuqOglLM5RWuxobzyf1uNME_GVn0gVJBj3XMqV4vkoyY2RKzEbRaYSVHNdho9j1h06PlTwO0UHUxCN3uic2VkqQkKWmg8SgrZ0s2H7918Q-dAKQ_Tj7XC6hurWr6dBwH6OjF94rh0OcEVOPgOz_uvwEiA0E5uUR4k4&4u16383&5m1&2e1&callback=none&client=google-maps-pro&token=87291",
 "https://www.worldatlas.com/r/w1200/upload/a8/08/dd/wulingyuan-china.jpg", "https://files.adventure-life.com/14/80/52/kenya-zebras_serengeti/1300x820.webp", "https://www.hawaii.com/wp-content/uploads/2022/03/GettyImages-659415860.jpg", "https://cdn.nordicvisitor.com/images/1/iceland/summer/reynisfjara_black_sand_beach.jpg", 

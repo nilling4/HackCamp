@@ -1,0 +1,40 @@
+* {
+    margin:0; 
+    padding:0;
+    color: white;
+  }
+
+.flightinfo {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 2px;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    background-color: rgb(193, 224, 214);
+}
+
+.price {
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+}
+
+.airline {
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+}
+
+.flight_number {
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+}
+
+.departure_at {
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+}
