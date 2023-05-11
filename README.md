@@ -1,3 +1,5 @@
+Click on thumbnail to watch.
+
 [![Proect Demo](https://i.imgur.com/ojgcwTx.png)](https://www.youtube.com/watch?v=HVuqMSQtjkg&ab_channel=NoelIlling)
 
 
