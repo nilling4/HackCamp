@@ -1,6 +1,5 @@
 [![Proect Demo](https://i.imgur.com/ojgcwTx.png)](https://www.youtube.com/watch?v=HVuqMSQtjkg&ab_channel=NoelIlling)
 
-[![Project Demo](https://i.imgur.com/TUk2bfT.png)](https://www.youtube.com/watch?v=lgKwSukLB_U&list=LL&index=2&ab_channel=HenryKim)
 
 
 # Around the World 
